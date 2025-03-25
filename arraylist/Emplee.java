@@ -8,7 +8,10 @@ import java.util.stream.Collectors;
 public class Emplee {
     String id;
     String name;
+
     static int age;
+
+   
 
     int pos;
 
